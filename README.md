@@ -1,2 +1,2 @@
 # Housing-Price-Prediction
-Predicted housing prices with several different regression models and xgboost.
+Predicted housing prices with ridge, lasso, and elastic regression models and xgboost.
