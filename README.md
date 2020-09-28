@@ -1,10 +1,12 @@
 # Housing Price Prediction: Project Overview
-* Data preprocessing: took log of skewed numerics, created dummies for categoricals, and replaced null values with the mean of their respective column
-*Predicted housing prices with ridge, lasso, and elastic regression models
-*Found the most impactful coefficients(features) on predicting a house's price with lasso and elastic 
-*Used xgboost to get a better score
 
-#Resources Used
+* Data preprocessing: took log of skewed numerics, created dummies for categoricals, and replaced null values with the mean of their respective column
+* Predicted housing prices with ridge, lasso, and elastic regression models
+* Found the most impactful coefficients(features) on predicting a house's price with lasso and elastic 
+* Used xgboost to get a better score
+
+# Resources Used:
+
 **Python Version:** 3.6
 **Packages:** pandas, numpy, sklearn, matplotlib, scipy, xgboost
 
