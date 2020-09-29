@@ -15,6 +15,8 @@
 * took log of skewed numerics
 * created dummies for categoricals
 * replaced null values with the mean of their respective column
+![alt text](https://github.com/WestonKing-Leatham/Housing-Price-Prediction/blob/master/Visualizations/normalizedFeatures.png "Normalizing skewed features")
+
 
 # Model Building:
 
