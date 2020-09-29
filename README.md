@@ -18,8 +18,18 @@
 ![alt text](https://github.com/WestonKing-Leatham/Housing-Price-Prediction/blob/master/Visualizations/normalizedFeatures.png "Normalizing skewed features")
 
 
-# Model Building:
+# Model Building and EDA:
+Finding alpha for ridge regression:
+![alt text](https://github.com/WestonKing-Leatham/Housing-Price-Prediction/blob/master/Visualizations/ridgeAlpha.png "Ridge alpha")
 
+Finding the most impactful coefficients with lasso regression:
+![alt text](https://github.com/WestonKing-Leatham/Housing-Price-Prediction/blob/master/Visualizations/LassoCoefficients.png "Impactful coefficients")
+
+Plotting residuals:
+![alt text](https://github.com/WestonKing-Leatham/Housing-Price-Prediction/blob/master/Visualizations/LassoResiduals.png "Lasso residuals")
+![alt text](https://github.com/WestonKing-Leatham/Housing-Price-Prediction/blob/master/Visualizations/XgbPredictions.png "Xgb residuals")
+
+# Model Evaluation:
 I tested 4 different modesls and evaluated them with root mean square error (RMSE). 
 
 * **Ridge Regression** : 0.12733734668670765
